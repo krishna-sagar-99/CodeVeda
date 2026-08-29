@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CodeVeda</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_desc">Login to access cooperative services</string>
+    <string name="email_or_mobile">Email or Mobile</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_prompt">Don\'t have an account? Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string name="login_prompt">Already have an account? Login</string>
+    <string name="book_service">Book a Service</string>
+    <string name="become_worker">Become a Worker</string>
+    <string name="categories">Categories</string>
+    <string name="search_hint">What service do you need?</string>
+</resources>
